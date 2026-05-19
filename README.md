@@ -1,2 +1,3 @@
 # Demo-project
-This is my first Git Repositery Demo
+This is my first Git Repositories Demo
+Author - Debayan Saha
